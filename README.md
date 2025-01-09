@@ -58,7 +58,7 @@ git push gitlab v0.0
 Создаем аннотированный тег v0.1 и так же пушим его в удаленные репозитории командами:
 
 ```
-git tag -a v0.1 -m "Release version 0.1 with bug fixes"
+git tag -a v0.1 -m "Release 0.1"
 ```
 ```
 git push origin v0.1
