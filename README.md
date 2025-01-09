@@ -101,7 +101,6 @@ git push -u origin fix
 <img src = "img/13.png" width = 100%>
 
 Смотрим, как визуально выглядит схема коммитов https://github.com/omegavlg/devops-netology/network:
-
 <img src = "img/14.png" width = 100%>
 
 Добавим новую строчку в файл README.md проекта и отправляем изменения в репозиторий:
