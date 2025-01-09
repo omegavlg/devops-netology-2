@@ -35,9 +35,9 @@ git push -u gitlab main
 Создайте легковестный тег v0.0 на HEAD-коммите и запуште его во все три добавленных на предыдущем этапе upstream.
 Аналогично создайте аннотированный тег v0.1.
 Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги.
-в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
-в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
-в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке.
+* в GitHub — https://github.com/omegavlg/devops-netology/tags;
+* в GitLab — https://gitlab.com/omegavlg/devops-netology/-/tags;
+* в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке.
 
 ### Ответ:
 
