@@ -93,16 +93,17 @@ git checkout 07c9c65
 ```
 <img src = "img/12.png" width = 100%>
 
-Создаем новую ветку fix и пушим ветку в репозиторий https://github.com/omegavlg/devops-netology/network:
+Создаем новую ветку fix и пушим ветку в репозиторий:
 ```
 git switch -c fix
 git push -u origin fix
 ```
 <img src = "img/13.png" width = 100%>
 
-Смотрим, как визуально выглядит схема коммитов:
+Смотрим, как визуально выглядит схема коммитов https://github.com/omegavlg/devops-netology/network:
 
 <img src = "img/14.png" width = 100%>
 
+Добавим новую строчку в файл README.md проекта.
 
-
+<img src = "img/15.png" width = 100%>
