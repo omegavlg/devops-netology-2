@@ -42,7 +42,6 @@ git push -u gitlab main
 ### Ответ:
 
 Создаем тег v0.0 и запушим его в репозитории origin и gitLab командами:
- 
 ```
 git tag v0.0
 git push origin v0.0
@@ -51,7 +50,6 @@ git push gitlab v0.0
 <img src = "img/07.png" width = 100%>
 
 Создаем аннотированный тег v0.1 и также пушим его в удаленные репозитории командами:
-
 ```
 git tag -a v0.1 -m "Release 0.1"
 git push origin v0.1
@@ -86,4 +84,19 @@ git checkout main
 git log --oneline
 ```
 Нас интересует коммит с хешем 07с9с65
+
+<img src = "img/11.png" width = 100%>
+
+Переключаемся на коммит:
+```
+git checkout 07c9c65
+```
+<img src = "img/12.png" width = 100%>
+
+Создаем новую ветку fix и пушим ветку в репозиторий:
+```
+git switch -c fix
+git push -u origin fix
+```
+<img src = "img/13.png" width = 100%>
 
