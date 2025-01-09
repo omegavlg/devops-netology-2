@@ -104,6 +104,11 @@ git push -u origin fix
 
 <img src = "img/14.png" width = 100%>
 
-Добавим новую строчку в файл README.md проекта.
-
+Добавим новую строчку в файл README.md проекта и отправляем изменения в репозиторий:
 <img src = "img/15.png" width = 100%>
+
+Проверяем, как изменилась схема коммитов https://github.com/omegavlg/devops-netology/network:
+<img src = "img/16.png" width = 100%>
+
+А также как изменится вывод команды git log
+<img src = "img/17.png" width = 100%>
